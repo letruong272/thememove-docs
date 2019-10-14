@@ -4,4 +4,4 @@ It is rather important to set your theme menu in the WordPress Dashboard. To do 
 
 Once you’re viewing the Menus, create a new menu and save it. After you’ve saved the menu, you can add it to a menu via the Menu Settings, below the Menu Structure area. Add your pages and links to the menu you just created in the Menu Structure area.
 
-![Navigation](__media/navigation.png)
+![Navigation](images/navigation.png)

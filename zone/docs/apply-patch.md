@@ -10,13 +10,13 @@ All patches are applied at the click of a button, sequentially, without the need
 
 **Step 1:** Navigate to **ThemeMove Core > Update**, there you’ll find the ThemeMove Patcher box. All available patches for the theme will be listed and have a patch number, a tag for the product it’s for, description, and a status stating whether it has been applied or not.
 
-![Apply Patch](__media/patches.png)
+![Apply Patch](images/patches.png)
 
 **Step 2:** Click the **Apply Patch** button, starting at the top (patches are applied sequentially). All necessary changes will be automatically applied to the theme files for you.
 
 **Step 3:** Once the patch is applied, you will see a green check mark in the Status column that confirms the patch was applied.
 
-![Patch Applied](__media/patch-applied.png)
+![Patch Applied](images/patch-applied.png)
 
 
 ## If Patches Cannot Be Applied Automatically
@@ -36,14 +36,14 @@ If your server doesn’t allow the patches to be applied automatically through T
 
 **Step 1:** The patch file will be a .zip file with the patch’s number as its name is the patch ID.
 
-![Patch File](__media/patch-file.png)
+![Patch File](images/patch-file.png)
 
 **Step 2:** Now that you’ve found your patch file, extract the .zip file.
 
-![Extract Patch](__media/extract-patch.png)
+![Extract Patch](images/extract-patch.png)
 
 **Step 3:** Locating the Patched Files – The extracted folder will be the same path you’ll need to follow to find the files on your site for applying the updated files.
 
-![Locating Files](__media/locating-files.png)
+![Locating Files](images/locating-files.png)
 
 **Step 4** Upload Fixes – Now access your site through FTP and navigate to the same location your patched files were found in the patch download. Transfer your new patched files (and only the files themselves) to the directory and choose to “overwrite” the existing files.

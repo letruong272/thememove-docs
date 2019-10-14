@@ -5,14 +5,14 @@
 
 After activating Zone, you will see this notice:
 
-![Install Plugins Notice](__media/install-plugins-notice.png)
+![Install Plugins Notice](images/install-plugins-notice.png)
 
 Click **Begin installing plugins**. You will be navigated to **Install Required Plugins** page.
 
 Simply check all of them (or all of required plugins and some recommended plugins you like) and from the drop down select **Install**, then hit **Apply**.
 
-![Install Plugins](__media/install-plugins.png)
+![Install Plugins](images/install-plugins.png)
 
 When finishing, it should look like this:
 
-![All plugins installed](__media/all-plugins-installed.png)
+![All plugins installed](images/all-plugins-installed.png)

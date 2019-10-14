@@ -23,6 +23,6 @@ upload_max_filesize 32M
 
 You can verify your PHP configuration limits in the System tab in the Backend-mainpage. Take a look in the left sidebar for **WordPress backend > ThemeMove Core > Tools > System Info**.
 
-![system-info](__media/system-info.png)
+![system-info](images/system-info.png)
 
 ?> You should submit the system info when submitting a support ticket, by clicking on the blue button **Download System Info File**

@@ -6,24 +6,24 @@
 
 Navigate to **ThemeMove Core > Welcome**
 
-![Update box](__media/update-theme-1.png)
+![Update box](images/update-theme-1.png)
 
 or **ThemeMove Core > Update**
 
-![Update page](__media/update-theme-2.png)
+![Update page](images/update-theme-2.png)
 
 ---
 All that's left to do is simply click on the **Update** button and wait for ThemeMove Core to help you.
 
-![Theme Updated](__media/theme-updated.png)
+![Theme Updated](images/theme-updated.png)
 
 ## Manual Update
 
 **Step 1:** You need to deactivate the current Amely theme in **Appearance > Themes** section by simply activating a different theme. Once you activate a different theme, you can delete the Zone.
 
-![Activate other theme](__media/activate-other-theme.png)
+![Activate other theme](images/activate-other-theme.png)
 
-![Delete theme](__media/delete-theme.png)
+![Delete theme](images/delete-theme.png)
 
 ---
 **Step 2:** [Download the latest version](download-theme.md) from your ThemeMove account

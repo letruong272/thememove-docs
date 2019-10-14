@@ -6,15 +6,15 @@
 
 You can find your theme’s license key by checking your purchase receipt or signing in to [your ThemeMove account](https://thememove.com/dashboard/licenses/).
 
-![Get License Key](__media/get-license-key.png)
+![Get License Key](images/get-license-key.png)
 
 Copy this key and navigate to **ThemeMove Core > Welcome > License Key box**. Enter your license key and hit **Submit**.
 
-![Add License Key](__media/add-license-key.png)
+![Add License Key](images/add-license-key.png)
 
 If the license key is activated successfully, it should look like this:
 
-![License Activaed](__media/license-activated.png)
+![License Activaed](images/license-activated.png)
 
 ## What is the license key for?
 

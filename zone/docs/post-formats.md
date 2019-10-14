@@ -9,6 +9,6 @@ Zone support 5 post formats:
 
 On each post you'll see a **Post Options** metabox, located below the page content editor. This metabox includes various options to control the single post layout and post format.
 
-![Post options - Gallery](__media/post-options.png)
+![Post options - Gallery](images/post-options.png)
 
-![Post options - Video/Audio](__media/post-options-2.png)
+![Post options - Video/Audio](images/post-options-2.png)
