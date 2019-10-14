@@ -44,3 +44,7 @@ p, ul {
     line-height: 1.6rem;
     word-spacing: .05rem;
 }
+
+.toc-menu .-level-1:first-child > .title {
+    font-weight: 500;
+}
