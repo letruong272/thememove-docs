@@ -1,0 +1,4 @@
+- [Live Demo](https://zone.thememove.com)
+- [Changelog](https://thememove.com/downloads/zone/?changelog=1)
+- [Buy Zone WordPress Theme](https://thememove.com/downloads/zone/)
+- [ThemeMove Theme Club](https://thememove.com/pricing/)

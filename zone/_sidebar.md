@@ -31,3 +31,7 @@
 
 - Support
   - [ThemeMove's Support System](support.md)
+
+- ThemeMove Theme Club
+  - [Join our Theme Club](join-theme-club.md)
+  
