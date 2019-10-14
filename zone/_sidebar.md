@@ -19,7 +19,7 @@
   - [Customizer](customizer.md)
 
 - Translation
-  - [Translation](translation.md)
+  - [Theme Localization](translation.md)
 
 - Updates
   - [Before Updating](before-updating.md)

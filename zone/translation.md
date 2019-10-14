@@ -1,7 +1,7 @@
-# Translation
+# Theme Localization
 
 With our theme you can translate your site to any language or even multiple languages, it is 100% translation ready theme. 
-This theme is localized, which means it can easily be translated in your own language (easy but quite time consuming). There are two ways to translate this theme: use [Poedit](https://poedit.net/) or [Polylang](https://wordpress.org/plugins/polylang/).
+This theme is localized, which means it can easily be translated in your own language (easy but quite time consuming). There are two ways to translate this theme: use [Poedit](https://poedit.net/) or [Loco Translate](https://wordpress.org/plugins/loco-translate/).
 
 ## Poedit
 Poedit software installed on your computer. Poedit is available on OS X and Windows and can be downloaded [from here](https://poedit.net/).
@@ -42,3 +42,8 @@ To change the site language to one of the pre-installed languages, log in to you
 ![Change site language](__media/change-site-language.png)
 
 ✅ All done! Your website is translated into your language.
+
+## Loco Translate
+Loco Translate provides in-browser editing of WordPress translation files. You can follow their [Beginner's guide](https://localise.biz/wordpress/plugin/beginners) to translate the theme into your language.
+
+![Loco Translate](__media/loco-translate.png)
