@@ -1,4 +1,46 @@
-img {
-    border-radius: 5px;
-    box-shadow: 0 20px 50px rgba(0,0,0,.15);
+@import url("https://fonts.googleapis.com/css?family=Roboto+Mono|Source+Sans+Pro:300,400,600");
+
+html,
+.markdown-body {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  color: #34495e;
+  font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
+  font-size: 15px;
+  letter-spacing: 0;
+  overflow-x: hidden;
+}
+
+.toc-menu a,
+.toc-menu a:visited {
+    color: #505d6b;
+    font-size: 14px;
+    font-weight: 400;
+    overflow: hidden;
+    text-decoration: none;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.toc-menu a:active,
+.toc-menu a:hover {
+    background-color: transparent !important;
+    text-decoration: underline !important;
+}
+
+html .toc-menu .link.-active,
+html .toc-menu .hlink.-active {
+    box-shadow: none;
+    border-right: 2px solid;
+    color: #25a;
+    font-weight: 600;
+}
+
+.markdown-body h1 {
+    font-weight: 600;
+}
+
+p, ul {
+    line-height: 1.6rem;
+    word-spacing: .05rem;
 }
