@@ -1,6 +1,6 @@
 - [Zone](../README.md)
 - Getting Started
-  - [Welcome to Zone](index.md)
+  - [Welcome to Zone](welcome.md)
   - [Download Theme](download-theme.md)
   - [Theme Requirements](requirements.md)
   - [WordPress Knowledge Base](wp-knowledge-base.md)
