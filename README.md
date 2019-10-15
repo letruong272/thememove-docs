@@ -13,7 +13,7 @@
   🛒 [Buy Now](https://thememove.com/downloads/zone/)&nbsp;&nbsp;&nbsp;
   📚 [Document](http://document.thememove.com/zone)
 
-
+---
 ### Development
 
 - Install [docpress](https://github.com/docpress/docpress) and [markdown-it-link-attributes](https://www.npmjs.com/package/markdown-it-link-attributes)
