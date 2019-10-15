@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    Documentation for ThemeMove WordPress themes
+    Documentation for ThemeMove WordPress themes. 🚀 [Join us today!](https://thememove.com/pricing/)
 </p>
 
 ### Zone - A Charming Modern Blog WordPress Theme

@@ -1,5 +1,4 @@
 - [Zone](../README.md)
-  - [Live Demo](https://thememove.com/downloads/zone/)
 - Getting Started
   - [Welcome to Zone](index.md)
   - [Download Theme](download-theme.md)

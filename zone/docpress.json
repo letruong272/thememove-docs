@@ -4,6 +4,7 @@
     ],
     "markdown": {
       "plugins": {
+        "decorate": {},
         "link-attributes": {
           "attrs": {
             "target": "_blank"

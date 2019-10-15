@@ -16,12 +16,6 @@ html,
     color: #34495e;
 }
 
-@media (min-width: 960px) {
-    .markdown-body {
-        max-width: 900px;
-    }
-}
-
 .toc-menu a,
 .toc-menu a:visited {
     color: #505d6b;
@@ -81,4 +75,47 @@ img {
     color: #25a;
     font-weight: 600;
     text-decoration: underline;
+}
+
+@media (min-width: 768px) {
+
+    .markdown-body h1.massive-header,
+    .markdown-body h1.massive-header.-with-tagline+blockquote {
+        border: none;
+        color: #25a;
+        line-height: 1.2;
+        font-size: 5em;
+        font-weight: 200;
+        margin-bottom: .2em;
+        padding-bottom: 29vh;
+        padding-top:29vh;
+    }
+
+    .markdown-body h1.massive-header.-with-tagline {
+        margin-bottom: 0;
+        margin-top: 0;
+        padding-top: 20vh;
+        padding-bottom: 0;
+    }
+
+    .markdown-body h1.massive-header.-with-tagline+blockquote {
+        background-color: transparent;
+        border-left: 0;
+        color: #aaa;
+        font-size: 2em;
+        padding-bottom: 2vh;
+        padding-left: 0;
+        padding-right: 10%;
+        padding-top: 0;
+    }
+
+    .markdown-body h1.massive-header.-with-tagline+blockquote > p {
+        line-height: 1.1;
+    }
+}
+
+@media (min-width: 960px) {
+    .markdown-body {
+        max-width: 900px;
+    }
 }
