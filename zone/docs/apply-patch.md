@@ -6,7 +6,7 @@ All patches are applied at the click of a button, sequentially, without the need
 
 ## Automatic Apply Patches
 
-!> **You have to [activate your license key](theme-license.md) before applying patches.**
+> You have to [activate your license key](theme-license.md) before applying patches.
 
 **Step 1:** Navigate to **ThemeMove Core > Update**, there you’ll find the ThemeMove Patcher box. All available patches for the theme will be listed and have a patch number, a tag for the product it’s for, description, and a status stating whether it has been applied or not.
 
@@ -21,14 +21,14 @@ All patches are applied at the click of a button, sequentially, without the need
 
 ## If Patches Cannot Be Applied Automatically
 
+> If you are not on the latest version of Zone version, simply update your theme. The patches will be in the latest version.
+
 Sometimes server setups are very particular about file/folder permissions and do not allow files to be automatically written to them. In these cases, applying an automatic patch will not work. If your server doesn’t allow the patches to be applied automatically through ThemeMove Core, you can download the patch files and manually apply the fix with FTP access. The reasons why this might happen are listed below, please contact your host and give them these details and ask them to change it for you:
 
 - Theme & plugins should be owned by the web server user (usually www-data)
 - Files & folders should have the right permissions. Details on https://wordpress.org/support/article/changing-file-permissions/
 - WordPress should be able to write to the filesystem.
 
-!> If you are not on the latest version of Zone version, simply update your theme.\
-The patches will be in the latest version.
 
 ## Applying Patches Manually
 
@@ -46,4 +46,4 @@ If your server doesn’t allow the patches to be applied automatically through T
 
 ![Locating Files](images/locating-files.png)
 
-**Step 4** Upload Fixes – Now access your site through FTP and navigate to the same location your patched files were found in the patch download. Transfer your new patched files (and only the files themselves) to the directory and choose to “overwrite” the existing files.
+**Step 4:** Upload Fixes – Now access your site through FTP and navigate to the same location your patched files were found in the patch download. Transfer your new patched files (and only the files themselves) to the directory and choose to “overwrite” the existing files.

@@ -1,6 +1,6 @@
 # Theme License
 
-!> It’s strongly recommended that you add your theme’s license key from within the License box of the ThemeMove Core. By adding your key, you will activate the remote theme updates and have access to our support team.
+> It’s strongly recommended that you add your theme’s license key from within the License box of the ThemeMove Core. By adding your key, you will activate the remote theme updates and have access to our support team.
 
 ## Activate License Key
 
@@ -22,7 +22,7 @@ It is important to keep your license up to date in order to continue getting upd
 
 Without a valid theme license, you will be unable to get support and auto-update notifications will not function.
 
-!> If your key is not activated after hitting the Submit button, simply refresh the page and try again. Sometimes it takes a second try to properly establish a connection with the activation server.
+> If your key is not activated after hitting the Submit button, simply refresh the page and try again. Sometimes it takes a second try to properly establish a connection with the activation server.
 
 ## What if my license key has expired?
 

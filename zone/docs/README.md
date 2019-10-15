@@ -26,9 +26,8 @@
   - [Before Updating](before-updating.md)
   - [Update Theme](update-theme.md)
   - [Update Patch](apply-patch.md)
-
-- Theme License
-  - [Theme License](theme-license.md)
+ 
+- [Theme License](theme-license.md)
 
 - Support
   - [ThemeMove's Support System](support.md)

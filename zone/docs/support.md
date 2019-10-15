@@ -8,8 +8,7 @@ We clarify item support policy [here](https://thememove.com/faqs/).
 
 We have an advanced, secure ticket system to handle your requests. Support is limited to questions regarding the theme’s features or issues that are related the theme.
 
-!> **We are not able to provide support for code customizations or third-party plugins.**\
-If you need help with anything other than minor customization of your theme, we suggest enlisting the help of a developer.
+> **We are not able to provide support for code customizations or third-party plugins.**
 
 ## How To Start Receiving Support
 - **Step 1**: Click [here](https://thememove.ticksy.com/) to create an account. You will need your accession which can only be received after buying the theme from [thememove.com](https://thememove.com).
@@ -19,12 +18,13 @@ If you need help with anything other than minor customization of your theme, we 
 
 ## Before You Submit Ticket
 
-!> To help speed along your request, we require that you follow the steps below before posting a ticket in the help desk.
+> To help speed along your request, we require that you follow the steps below before posting a ticket in the help desk.
 
 **Step 1**: Please take a moment to search [the articles](https://thememove.ticksy.com/articles/), as the answer to your question is likely already in here - nearly 8 % of all tickets opened are due to the issues described in our articles.
 
 **Step 2**: If your question or issue has not been brought up, then please open a ticket with the following information:
 - Your live site URL that shows the issue
+- Your system information. You can found it in **ThemeMove Core > Tools > System Info**
 - Your WordPress login credentials
 - Did you install or update the theme? Using FTP or from the WordPress admin panel?
 - Error logs
