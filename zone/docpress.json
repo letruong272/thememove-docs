@@ -1,5 +1,14 @@
 {
     "css": [
       "css/custom.css"
-    ]
+    ],
+    "markdown": {
+      "plugins": {
+        "link-attributes": {
+          "attrs": {
+            "target": "_blank"
+          }
+        }
+      }
+    }
   }

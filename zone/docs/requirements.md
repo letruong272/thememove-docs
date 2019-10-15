@@ -25,4 +25,4 @@ You can verify your PHP configuration limits in the System tab in the Backend-ma
 
 ![system-info](images/system-info.png)
 
-?> You should submit the system info when submitting a support ticket, by clicking on the blue button **Download System Info File**
+> You should submit the system info when submitting a support ticket, by clicking on the blue button **Download System Info File**
