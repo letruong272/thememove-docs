@@ -8,6 +8,11 @@
     Documentation for ThemeMove WordPress themes. 🚀 <a href="https://thememove.com/pricing/" target="_blank">Join us today!</a>
 </p>
 
+### Zone - A Charming Modern Blog WordPress Theme
+  👉 [Live Demo](https://zone.thememove.com)&nbsp;&nbsp;&nbsp;
+  🛒 [Buy Now](https://thememove.com/downloads/zone/)&nbsp;&nbsp;&nbsp;
+  📚 [Document](http://document.thememove.com/zone)
+
 ### Freshen - A Refreshing Design for Organic Stores
   👉 [Live Demo](https://freshen.thememove.com)&nbsp;&nbsp;&nbsp;
   🛒 [Buy Now](https://thememove.com/downloads/freshen/)&nbsp;&nbsp;&nbsp;
@@ -24,6 +29,6 @@
 
 - Go to a doc folder and run `docpress s`. For example:
   ```
-  $ cd freshen
+  $ cd zone
   $ docpress s
   ```
