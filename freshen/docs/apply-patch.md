@@ -6,7 +6,7 @@ All patches are applied at the click of a button, sequentially, without the need
 
 ## Automatic Apply Patches
 
-> You have to [activate your license key](theme-license.md) before applying patches.
+> You have to [activate your license key](theme-ls.md) before applying patches.
 
 **Step 1:** Navigate to **ThemeMove Core > Update**, there you’ll find the ThemeMove Patcher box. All available patches for the theme will be listed and have a patch number, a tag for the product it’s for, description, and a status stating whether it has been applied or not.
 

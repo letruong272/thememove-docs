@@ -2,7 +2,7 @@
 
 ## Automatic Update
 
-> You have to [activate your license key](theme-license.md) before updating the theme.
+> You have to [activate your license key](theme-ls.md) before updating the theme.
 
 Navigate to **ThemeMove Core > Welcome**
 
