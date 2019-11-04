@@ -27,7 +27,7 @@
   - [Update Theme](update-theme.md)
   - [Update Patch](apply-patch.md)
  
-- [Theme License](theme-license.md)
+- [Theme License](theme-ls.md)
 
 - Support
   - [ThemeMove's Support System](support.md)
