@@ -1,6 +1,6 @@
 # Demo Installation
 
-> You have to [activate your license key](theme-license.md) before importing the demo data.
+> You have to [activate your license key](theme-ls.md) before importing the demo data.
 
 Our demo data import lets you have the whole data package in minutes, delivering all kinds of essential things quickly and simply. All you need to do is to navigate to **ThemeMove Core > Import Demo Data**. Hit **Import Demo Data**.
 
