@@ -13,6 +13,11 @@
   🛒 [Buy Now](https://thememove.com/downloads/zone/)&nbsp;&nbsp;&nbsp;
   📚 [Document](http://document.thememove.com/zone)
 
+### Freshen - A Refreshing Design for Organic Stores
+  👉 [Live Demo](https://freshen.thememove.com)&nbsp;&nbsp;&nbsp;
+  🛒 [Buy Now](https://thememove.com/downloads/freshen/)&nbsp;&nbsp;&nbsp;
+  📚 [Document](http://document.thememove.com/freshen)
+
 ---
 ### Development
 
