@@ -14,7 +14,7 @@ Copy this key and navigate to **ThemeMove Core > Welcome > License Key box**. En
 
 If the license key is activated successfully, it should look like this:
 
-![License Activaed](images/license-activated.png)
+![License Activated](images/license-activated.png)
 
 ## What is the license key for?
 

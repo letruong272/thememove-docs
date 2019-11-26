@@ -19,7 +19,7 @@ All that's left to do is simply click on the **Update** button and wait for Them
 
 ## Manual Update
 
-**Step 1:** You need to deactivate the current Freshen theme in **Appearance > Themes** section by simply activating a different theme. Once you activate a different theme, you can delete the Freshen.
+**Step 1:** You need to deactivate the current Autoxpert theme in **Appearance > Themes** section by simply activating a different theme. Once you activate a different theme, you can delete the Autoxpert.
 
 ![Activate other theme](images/activate-other-theme.png)
 
