@@ -23,4 +23,4 @@ When finishing, it should look like this:
 
 Finally, you should check the permalink one more time to make sure your website displays everything properly just as how it's supposed to be in the demo. Go to **Settings> Permalink**. Hit **Post name**.
 
-![Permalink](images/permalink.png)
+![Permalink](images/permalinks.png)
