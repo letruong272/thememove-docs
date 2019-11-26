@@ -21,6 +21,6 @@ When finishing, it should look like this:
 
 > After the demo data is installed successfully, you should use the [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/) plugin to regenerate all thumbnail sizes to make sure that everything works fine.
 
-Finally, you should check the permalink one more time to make sure your website displays everything properly just as how it's supposed to be in the demo. Go to **Settings> Permalink**. Hit **Post name**.
+Finally, you should check the permalink one more time to make sure your website displays everything properly just as how it's supposed to be in the demo. Go to **Settings > Permalink**. Hit **Post name**.
 
 ![Permalink](images/permalink.png)
