@@ -64,6 +64,10 @@ img {
     box-shadow: 0 30px 50px rgba(0, 0, 0, .1);
 }
 
+img[src*='no-box-shadow'] {
+    box-shadow: none;
+}
+
 .markdown-body blockquote {
     background-color: rgba(34, 85, 170, .2);
     border-left-color: #25a;
