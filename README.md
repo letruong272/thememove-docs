@@ -18,6 +18,11 @@
   🛒 [Buy Now](https://thememove.com/downloads/freshen/)&nbsp;&nbsp;&nbsp;
   📚 [Document](http://document.thememove.com/freshen)
 
+### AutoXpert - A Car Repair Services & Auto Mechanics WordPress Theme
+  👉 [Live Demo](https://autoxpert.thememove.com)&nbsp;&nbsp;&nbsp;
+  🛒 [Buy Now](https://thememove.com/downloads/autoxpert/)&nbsp;&nbsp;&nbsp;
+  📚 [Document](http://document.thememove.com/autoxpert)
+
 ---
 ### Development
 
