@@ -1,6 +1,6 @@
 # Widgets
 
-The following widgets are provided in the Freshen WordPress Theme
+The following widgets are provided in the Autoxpert WordPress Theme
 
 - Recent Posts\
   ![Recent Posts Widget](images/recent-posts.png)

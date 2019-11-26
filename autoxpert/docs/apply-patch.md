@@ -21,7 +21,7 @@ All patches are applied at the click of a button, sequentially, without the need
 
 ## If Patches Cannot Be Applied Automatically
 
-> If you are not on the latest version of Freshen version, simply update your theme. The patches will be in the latest version.
+> If you are not on the latest version of Autoxpert version, simply update your theme. The patches will be in the latest version.
 
 Sometimes server setups are very particular about file/folder permissions and do not allow files to be automatically written to them. In these cases, applying an automatic patch will not work. If your server doesn’t allow the patches to be applied automatically through ThemeMove Core, you can download the patch files and manually apply the fix with FTP access. The reasons why this might happen are listed below, please contact your host and give them these details and ask them to change it for you:
 

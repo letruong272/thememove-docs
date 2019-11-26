@@ -4,7 +4,7 @@ To access the live Theme Customizer, navigate to **WP Dashboard > Appearance > C
 
 ### Theme Options
 
-There are hundreds of theme options within Freshen to let you modify colors, theme elements (headers, footers, etc), sizes, positioning, fonts, page, post and product.
+There are hundreds of theme options within Autoxpert to let you modify colors, theme elements (headers, footers, etc), sizes, positioning, fonts, page, post and product.
 
 ![Theme Options](images/theme-options.png)
 
