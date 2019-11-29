@@ -4,7 +4,7 @@ On each page you'll see a **Page Options** metabox, located below the page conte
 
 ![Page Options](images/page-options.png)
 
-Similarly, for product, we also provide **Portfolio Options and Post Options**.
+Similarly, for portfolio, we also provide **Portfolio Options and Post Options**.
 
 ![Product Options](images/post-options.png)
 

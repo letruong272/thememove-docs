@@ -4,21 +4,6 @@ In this part, I’ll guide you through creating a simple page using Elementor pa
 
 [Elementor](https://elementor.com/) is one of the most widely used page-building plugins popular among WordPress users. There are two versions for this: Elementor and Elementor Pro. In Freshen, we integrated Elementor Pro so that users can use it for free. The update of this plugin is conducted alongside updating Freshen theme. For more information, kindly refer to this [link](https://docs.elementor.com/)
 
-## How to create a new page with Elementor
-
-**Step 1:** Create a new page <br>
-•	Pages > Add New <br>
-•	Enter the page title <br>
-•	Navigate to Page Options if you want to setting private <br>
-•	Click on Edit with Elementor
-
-![Create Page](images/create-page.png)
-
----
-
-**Step 2:** Drag and drop appropriate widgets into the new page, you can also use the Navigator and arrange them to the right hand sidebar. After edit page, hit **Publish Page.**  See more in [video](https://www.youtube.com/watch?v=xYrvjaSJH_M&t=487s)
-
-![Elementor Widget](images/add-elementor-widget.png)
 
 ## Using template
 
