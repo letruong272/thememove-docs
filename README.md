@@ -32,6 +32,12 @@
   📚 [Document](http://document.thememove.com/andree)
 
 ---
+### Dental - Medical, Dentist & Dental Clinics WordPress Theme
+  👉 [Live Demo](https://dental.thememove.com)&nbsp;&nbsp;&nbsp;
+  🛒 [Buy Now](https://thememove.com/downloads/dental/)&nbsp;&nbsp;&nbsp;
+  📚 [Document](http://document.thememove.com/dental)
+
+---
 ### Development
 
 - Install [docpress](https://github.com/docpress/docpress) and [markdown-it-link-attributes](https://www.npmjs.com/package/markdown-it-link-attributes)
