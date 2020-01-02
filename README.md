@@ -31,6 +31,12 @@
   🛒 [Buy Now](https://thememove.com/downloads/andree/)&nbsp;&nbsp;&nbsp;
   📚 [Document](http://document.thememove.com/andree)
 
+---  
+### Miimo - A Minimal & Modern WooCommerce Theme
+  👉 [Live Demo](https://miimo.thememove.com)&nbsp;&nbsp;&nbsp;
+  🛒 [Buy Now](https://thememove.com/downloads/miimo/)&nbsp;&nbsp;&nbsp;
+  📚 [Document](http://document.thememove.com/miimo)
+
 ---
 ### Dental - Medical, Dentist & Dental Clinics WordPress Theme
   👉 [Live Demo](https://dental.thememove.com)&nbsp;&nbsp;&nbsp;
