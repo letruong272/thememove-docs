@@ -1,7 +1,7 @@
 # Dental
 <!--{h1:.massive-header.-with-tagline}-->
 
-> A Elegant Wedding Blog,  Studio & Photography Service Theme
+> Medical, Dentist & Dental Clinics WordPress Theme
 
 👉 [Live Demo](https://dental.thememove.com)&nbsp;&nbsp;&nbsp;
 📝 [Changelog](https://thememove.com/downloads/dental/?changelog=1)&nbsp;&nbsp;&nbsp;
