@@ -37,17 +37,17 @@
   🛒 [Buy Now](https://thememove.com/downloads/miimo/)&nbsp;&nbsp;&nbsp;
   📚 [Document](http://document.thememove.com/miimo)
 
----
-### Dental - Medical, Dentist & Dental Clinics WordPress Theme
-  👉 [Live Demo](https://dental.thememove.com)&nbsp;&nbsp;&nbsp;
-  🛒 [Buy Now](https://thememove.com/downloads/dental/)&nbsp;&nbsp;&nbsp;
-  📚 [Document](http://document.thememove.com/dental)
-
 ---  
 ### Couponbank - A Coupon & Deal Wordpress Theme
   👉 [Live Demo](https://couponbank.thememove.com)&nbsp;&nbsp;&nbsp;
   🛒 [Buy Now](https://thememove.com/downloads/couponbank/)&nbsp;&nbsp;&nbsp;
   📚 [Document](http://document.thememove.com/couponbank)
+
+---
+### Dental - Medical, Dentist & Dental Clinics WordPress Theme
+  👉 [Live Demo](https://dental.thememove.com)&nbsp;&nbsp;&nbsp;
+  🛒 [Buy Now](https://thememove.com/downloads/dental/)&nbsp;&nbsp;&nbsp;
+  📚 [Document](http://document.thememove.com/dental)
 
 ---
 ### Development
