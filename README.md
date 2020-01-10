@@ -38,7 +38,7 @@
   📚 [Document](http://document.thememove.com/miimo)
 
 ---  
-### Couponbank - A Coupon & Deal Wordpress Theme
+### CouponBank - A Coupon & Deal Wordpress Theme
   👉 [Live Demo](https://couponbank.thememove.com)&nbsp;&nbsp;&nbsp;
   🛒 [Buy Now](https://thememove.com/downloads/couponbank/)&nbsp;&nbsp;&nbsp;
   📚 [Document](http://document.thememove.com/couponbank)

@@ -1,4 +1,4 @@
-# Coupon Bank
+# CouponBank
 <!--{h1:.massive-header.-with-tagline}-->
 
 > Find All Vouchers Coupon & Deal Theme
